@@ -3,22 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Homework #2: Resopnsive Portfolio</title>
+    <title>Homework #2: Responsive Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 </head>
 
 <body>
-    <nav class="navBar">
-        <div class="container-fluid">
-          <div class="navbar-header">
-            <a class="navbar-brand" href="#">WebSiteName</a>
-          </div>
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">Page 1</a></li>
-            <li><a href="#">Page 2</a></li>
-            <li><a href="#">Page 3</a></li>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <span class="navbar-brand mb-1 h1">Nikki Nguyen</span>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="nav-item">
+              <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Portfolio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
           </ul>
         </div>
-      </nav>
+    </nav>
+      
+    <main class="container">
+        <section class="row">
+            <header class="col-md-8">
+                <div class="page-header">
+                    <h1>About Me</h1>
+                </div>
+            </header>
+        </section>  
+        <section class="row">
+              <figure class="col-md-3">
+                <img src="Assets/Images/IMG_7685.png" alt="Nikki Nguyen" class="img-thumbnail">
+              </figure>
+                <summary class="col-md-9">
+                    <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dignissim, felis ut dictum tristique,
+                    nibh erat feugiat libero, sit amet fringilla mauris velit in mi. Duis tempus felis vitae
+                    felis vulputate pretium. Nullam commodo, est ac auctor ornare, eros nisi fringilla sem,
+                    non pulvinar tortor lorem sit amet sem. Aenean quis erat facilisis, porttitor ex cursus,
+                    luctus enim. Curabitur et metus in lacus tristique sagittis et in lorem. Nunc id nisi et
+                    neque fringilla ultricies. Aenean at feugiat elit, a posuere justo. Pellentesque egestas
+                    dolor et nisi venenatis, nec fermentum urna fringilla. Etiam efficitur porta purus, id
+                    posuere sem congue a.
+                    </p>
+                </summary>
+        </section>
+    </main>
+
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
 </body>
 </html>
