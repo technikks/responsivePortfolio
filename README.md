@@ -10,19 +10,19 @@ Create a mobile responsive design to the application to ensures that web applica
 * Use Boostrap CSS Framework to create a mobile responsive portfolio for the following webpages: 
     * Home
         * The below screenshots were used as reference: 
-            * (Assets/400-index.png)
-            * (Assets/768-index.png)
-            * (Assets/992-index.png)
+            * (Assets/Images/400-index.png)
+            * (Assets/Images/768-index.png)
+            * (Assets/Images/992-index.png)
     * Portfolio
         * The below screenshots were used as reference: 
-            * (Assets/400-portfolio.png)
-            * (Assets/768-portfolio.png)
-            * (Assets/992-portfolio.png)
+            * (Assets/Images/400-portfolio.png)
+            * (Assets/Images/768-portfolio.png)
+            * (Assets/Images/992-portfolio.png)
     * Contact
         * The below screenshots were used as reference: 
-            * (Assets/400-contact.png)
-            * (Assets/768-contact.png)
-            * (Assets/992-contact.png)
+            * (Assets/Images/400-contact.png)
+            * (Assets/Images/768-contact.png)
+            * (Assets/Images/992-contact.png)
 
 * Use Bootstrap to develop portfolio with the following items: 
     * A navbar
