@@ -28,5 +28,3 @@ Create a mobile responsive design to the application to ensures that web applica
     * A navbar
     * A responsive layout
     * Responsive images
-
-* INSERT WHAT WAS DONE to minimze the use of media queries. 
