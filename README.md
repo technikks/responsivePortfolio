@@ -1,7 +1,7 @@
 # responsivePortfolio
 GW Coding Homework #2 due Tuesday, November 17th
 
-# Deploy URL
+## Deploy URL
 (https://technikks.github.io/responsivePortfolio/)
 
 ## Purpose
