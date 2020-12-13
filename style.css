@@ -14,3 +14,15 @@ img {
 figure {
     margin-left: 100px; 
 }
+
+input {
+    width: 100%; 
+}
+
+#message {
+    height: 100px;
+}
+
+#submit {
+    background-color: darkgray; 
+}
