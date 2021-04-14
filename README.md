@@ -18,6 +18,6 @@ Create a mobile responsive design to the application to ensures that web applica
     * Responsive images
 
 ## Mock Ups
-![Home Mock Up 1](Assets/Images/400-index .png)
+![Home Mock Up 1](Assets/Images/400-index.png)
 ![Portfolio Mock Up 3](Assets/Images/992-portfolio.png)
 ![Contact Mock Up 1](Assets/Images/400-contact.png)
